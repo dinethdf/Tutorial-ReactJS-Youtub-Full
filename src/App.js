@@ -8,7 +8,7 @@ function App() {
     // const Names = <h2>{event.target.value} </h2>;
   };
 
-  const [name, setName] = useState("Dineth");
+  const [name, setName] = useState("");
   return (
     <div className="App">
       <h1> Hellow </h1>{" "}
